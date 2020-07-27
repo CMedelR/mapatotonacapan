@@ -5,11 +5,11 @@ La importancia del documento de trabajo es que permite analizar la información 
 
 
 Autores
-Carlos Medel-Ramírez, Hilario Medel-López2
+Carlos Medel-Ramírez (1) , Hilario Medel-López (2)
 
 Afiliación académica
-1.	Universidad Veracruzana / Instituto de Investigaciones y Estudios Superiores Económicos y Sociales 
-2.	Universidad Veracruzana / Instituto de Antropología 
+(1).	Universidad Veracruzana / Instituto de Investigaciones y Estudios Superiores Económicos y Sociales 
+(2).	Universidad Veracruzana / Instituto de Antropología 
 
 Autor correspondiente
 Carlos Medel-Ramírez (cmedel@uv.mx) 
